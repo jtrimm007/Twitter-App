@@ -1,0 +1,55 @@
+C:\Users\jbthy\source\repos\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.deps.json
+C:\Users\jbthy\source\repos\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.runtimeconfig.json
+C:\Users\jbthy\source\repos\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.runtimeconfig.dev.json
+C:\Users\jbthy\source\repos\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.dll
+C:\Users\jbthy\source\repos\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.csprojAssemblyReference.cache
+C:\Users\jbthy\source\repos\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.csproj.CoreCompileInputs.cache
+C:\Users\jbthy\source\repos\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.AssemblyInfoInputs.cache
+C:\Users\jbthy\source\repos\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.AssemblyInfo.cs
+C:\Users\jbthy\source\repos\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.pdb
+C:\Users\jbthy\source\repos\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.dll
+C:\Users\jbthy\source\repos\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.pdb
+C:\Users\Joshua\Dropbox\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.deps.json
+C:\Users\Joshua\Dropbox\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.runtimeconfig.json
+C:\Users\Joshua\Dropbox\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.runtimeconfig.dev.json
+C:\Users\Joshua\Dropbox\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.dll
+C:\Users\Joshua\Dropbox\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.pdb
+C:\Users\Joshua\Dropbox\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.csprojAssemblyReference.cache
+C:\Users\Joshua\Dropbox\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Dropbox\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.AssemblyInfoInputs.cache
+C:\Users\Joshua\Dropbox\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.AssemblyInfo.cs
+C:\Users\Joshua\Dropbox\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.dll
+C:\Users\Joshua\Dropbox\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.pdb
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.deps.json
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.runtimeconfig.json
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.runtimeconfig.dev.json
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.dll
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.pdb
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.csprojAssemblyReference.cache
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.csproj.CoreCompileInputs.cache
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.AssemblyInfoInputs.cache
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.AssemblyInfo.cs
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.dll
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Semester-2\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.pdb
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.deps.json
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.runtimeconfig.json
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.runtimeconfig.dev.json
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.dll
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.pdb
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.csprojAssemblyReference.cache
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.csproj.CoreCompileInputs.cache
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.AssemblyInfoInputs.cache
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.AssemblyInfo.cs
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.dll
+C:\Users\jbthy\Dropbox (Personal)\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.pdb
+C:\Users\Joshua\Dropbox\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.csprojAssemblyReference.cache
+C:\Users\Joshua\Dropbox\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Dropbox\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.AssemblyInfoInputs.cache
+C:\Users\Joshua\Dropbox\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.AssemblyInfo.cs
+C:\Users\Joshua\Dropbox\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.dll
+C:\Users\Joshua\Dropbox\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\obj\Debug\netcoreapp2.1\TwitterApp.pdb
+C:\Users\Joshua\Dropbox\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.deps.json
+C:\Users\Joshua\Dropbox\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.runtimeconfig.json
+C:\Users\Joshua\Dropbox\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.runtimeconfig.dev.json
+C:\Users\Joshua\Dropbox\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.dll
+C:\Users\Joshua\Dropbox\ETSU\Spring-2019\Research-Assistant\TwitterApp\TwitterApp\bin\Debug\netcoreapp2.1\TwitterApp.pdb
